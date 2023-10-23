@@ -1,6 +1,6 @@
 # he4rtdevs-mentoria
 
-## Pessoas que estavam no último dia
+## Exemplo de Code Review
 
 - William Oliveira (@1ilhas)
 - Clinton Rocha (@clintonrocha)
