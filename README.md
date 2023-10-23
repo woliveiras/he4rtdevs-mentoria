@@ -5,5 +5,7 @@
 - William Oliveira (@1ilhas)
 - João Iacillo (@joaoiacillo)
 - Marlon Sanches (@marlonhenq)
+- Sara Aniceto (@saraaniceto)
 - Felipe Costa (@Ihellsu)
 - Fernando Melo (@sts_nando)
+
